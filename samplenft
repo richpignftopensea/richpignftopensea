@@ -1,0 +1,25 @@
+{
+    "richpignft": [
+        {
+            "id": 0,
+            "description": "#0",
+            "external_url": "",
+            "image": "https://i.seadn.io/gcs/files/6e5055736e0e4c60e77d21ab51394991.webp",
+            "name": "#0"
+        },
+        {
+            "id": 1,
+            "description": "#1",
+            "external_url": "",
+            "image": "https://i.seadn.io/gcs/files/6e5055736e0e4c60e77d21ab51394991.webp",
+            "name": "#1"
+        },
+        {
+            "id": 2,
+            "description": "#2",
+            "external_url": "",
+            "image": "https://i.seadn.io/gcs/files/6e5055736e0e4c60e77d21ab51394991.webp",
+            "name": "#2"
+        }
+    ]
+}
